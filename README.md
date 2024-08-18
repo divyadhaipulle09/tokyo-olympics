@@ -1,5 +1,15 @@
 # Azure Data Pipeline and Transformation for Tokyo Olympics Data
 
+**This repository focuses on the implementation of the end-to-end data integration and transformation for the Tokyo Olympics dataset using Azure Data Factory and Databricks.** 
+
+The project involves:
+
+- **Pipeline Design:** Developed data pipelines using Azure Data Factory to automate data ingestion and synchronization.
+- **Data Synchronization:** Configured and executed activities to transfer raw data from HTTP sources to Azure Data Lake Storage Gen2.
+- **PySpark-Based Processing:** Utilized Azure Databricks to process and transform data with PySpark, ensuring efficient data cleaning and transformation.
+
+This setup enabled real-time data analysis and visualization, providing valuable insights into Olympic performances.
+
 ![image](https://github.com/user-attachments/assets/a06ee37f-e2b4-4998-b87d-957b91f6f5c8)
 
 ## Project Overview
